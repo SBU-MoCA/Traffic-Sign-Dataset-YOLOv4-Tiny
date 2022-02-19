@@ -1,6 +1,6 @@
 # Traffic-Sign-Dataset-YOLOv4-Tiny
 
-More detailed instructions at the original repository https://github.com/AlexeyAB/darknet and other intructions at https://github.com/AarohiSingla/YOLO-v4-Implementation-on-Custom-Dataset
+More detailed and original instructions at the original repository https://github.com/AlexeyAB/darknet and other intructions at https://github.com/AarohiSingla/YOLO-v4-Implementation-on-Custom-Dataset
 
 Clone the github repository: `git clone https://github.com/AlexeyAB/darknet` on Linux(terminal) or Windows(Powershell).
 
